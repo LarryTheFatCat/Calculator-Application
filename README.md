@@ -24,3 +24,49 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 * Hat tip to anyone whose code was used 
 * Inspiration
 * etc
+
+# How to use this application
+
+## Installation
+
+1. Clone the repository
+2. Run `npm install` or `yarn install` to install the dependencies
+3. Run `npm run dev` or `yarn dev` to start the development server
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser
+
+## Usage
+
+1. Enter the first number
+2. Enter the second number
+3. Select the operation you want to perform
+4. Click on the `=` button to get the result
+
+## Contributing
+
+1. Fork it (<>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+## Authors
+
+* **LarryTheFatCat** - *Initial work* - [LarryTheFatCat](https://www.github.com/larrythefatcat)
+
+## Future Plans
+
+* Add more operations
+* Add a history of operations
+* Add a dark mode
+
+## Feedback
+
+If you have any feedback, please reach out to us at 
+
+## Support
+
+For support, please reach out to me by creating a ticket on the [issues page](https://github.com/LarryTheFatCat/Calculator-Application/issues) (Note: Bad issues or spam issues will be in result from you being blacklisted, so please be respectful and follow the issue template)
+
+## Other
+
+This project is not affiliated with any other project or company. This project is not endorsed by any other project or company. This project is not sponsored by any other project or company.
